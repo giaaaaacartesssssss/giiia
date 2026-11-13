@@ -1,0 +1,49 @@
+.perfumes {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 45px;
+    
+}
+article {
+    display: flex;
+    flex-direction: column;
+    
+    flex: 1 1 200px;
+    color: #231958;
+}
+
+.cremas {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 45px
+}
+
+h2 {
+    color: #15103a;
+     display: flex;
+    justify-content:center;
+    align-items: center;
+
+}
+
+h3 {
+    color: #DBD8F0;
+}
+
+nav {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    gap: 30px;
+}
+
+body {
+    background-color: #bb9cd1;
+}
+
+main {
+display: flex;
+justify-content: center;
+flex-direction: column;
+
+}
